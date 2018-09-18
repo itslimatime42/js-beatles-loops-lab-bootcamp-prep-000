@@ -21,7 +21,11 @@ function iLoveTheBeatles(n) {
   do {
     newArray.push("I love the Beatles!");
     ++n;
+<<<<<<< HEAD
   } while (n < 15)
+=======
+  } while (i < 15)
+>>>>>>> 1347a58ee1993029229a5ad0581a31785189ee14
   
   return newArray
 }
